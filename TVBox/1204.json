@@ -12,7 +12,9 @@
 "sites": [
          //JS
 {"key":"drpy_js_豆瓣","name":"搜索|豆瓣[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/drpy.js"},
-{"key":"drpy_js_Alist","name":"网盘|Alist[js]","type":3,"api":"./JS/lib/alist.min.js","ext":".JS/js/alist.json"},
+{"key":"douban","name":"豆瓣荐片┃t4首页","type":4,"api":"http://t4.ganggang.live:3812/vod","searchable":0,"quickSearch":0,"filterable":0},
+{"key":"dr_豆瓣","name":"豆瓣热播┃dr首页","type":4,"api":"http://drpy.ganggang.live:5705/vod?pwd=dzyyds&rule=drpy","searchable":0,"quickSearch":0,"filterable":0},
+{"key":"drpy_js_Alist","name":"🗂️Alist（支持搜索）", "type" : 3, "api" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/lib/alist.min.js", "ext" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/js/alist.json" }, 
 {"key":"drpy_js_厂长资源","name":"厂长资源[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/厂长资源.js"},
 {"key":"drpy_js_奇优影院","name":"奇优影院[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/奇优影院.js"},
 {"key":"drpy_js_88看球","name":"体育|88看球[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/88看球.js"},
@@ -30,6 +32,7 @@
 {"key":"T4聚合","name":"📡T4聚合","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=8f0b3f0dc1834f309f077ea5549e99a8&timeout=5","searchable":1,"quickSearch":1,"filterable" : 1},
 {"key":"豆瓣导航","name":"🔍豆瓣荐片","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=&douban=262163036","searchable":1,"quickSearch":1,"filterable":1},
        //SP
+{"key":"YQK_spider","name":"一起看TV（世界杯）","api":"csp_YQKAPP","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"https://api-tx.shumaxc.xyz"}, 
 {"key":"csp_Xinsj","name":"新视觉|爬虫","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Lgyy","name":"蓝光丨影视","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"AppTT","name":"图图丨影视","type":3,"api":"csp_Dora","ext":"110c922de7d69804467fb83d3bb664b5","jar":"http://w.g9.pub:66/381203888/Jar/pandatt.jar;md5; 3D6C99CAE168DA455AA766618BE7B604"},
