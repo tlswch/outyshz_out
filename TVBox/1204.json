@@ -3,7 +3,7 @@
 //searchable":1,"quickSearch":1,"filterable": 0，分别对应的是搜索，快速搜索，筛选。1代表开启
 //{"key":"key_〔资源名称〕","name":"资源名称","type":0,"api":"csp_〔jar内文件名称〕","searchable":1,"quickSearch":1,"filterable":0,"jar":"〔jar文件地址〕","ext":"〔txt json文件地址〕","playUrl":"〔播放解析地址〕","categories":["〔自定义资源列表〕","〔自定义资源列表〕"] }, 
 //Update:2022-12-04 21:40 
-"spider": "./JAR/1204.jar;md5;505b054d2201e0de56ad9d22450c0269",
+"spider": "./JAR/1204.jar;md5;8501ab0b2be05ee231077532c03670f6",
 "wallpaper": "http://刚刚.live/图",
 "lives": [
 {"name": "直播","type": 0,"url": "http://w.g9.pub:66/381203888/%E7%9B%B4%E6%92%AD/zb2.txt","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"},
@@ -11,7 +11,6 @@
 {"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpLzEzODAwMTM4MDAwMC9NSFFUVi9yYXcvYnJhbmNoL21hc3Rlci9UVi8wOTA0LnR4dA=="]}],"epg":"http://epg.51zmt.top:8000/api/diyp/"}],
 "sites": [
          //JS
-{"key":"drpy_js_豆瓣","name":"搜索|豆瓣[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/drpy.js"},
 {"key":"douban","name":"豆瓣荐片┃t4首页","type":4,"api":"http://t4.ganggang.live:3812/vod","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"dr_豆瓣","name":"豆瓣热播┃dr首页","type":4,"api":"http://drpy.ganggang.live:5705/vod?pwd=dzyyds&rule=drpy","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"drpy_js_Alist","name":"🗂️Alist（支持搜索）", "type" : 3, "api" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/lib/alist.min.js", "ext" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/js/alist.json" }, 
