@@ -3,7 +3,7 @@
 //searchable":1,"quickSearch":1,"filterable": 0，分别对应的是搜索，快速搜索，筛选。1代表开启
 //{"key":"key_〔资源名称〕","name":"资源名称","type":0,"api":"csp_〔jar内文件名称〕","searchable":1,"quickSearch":1,"filterable":0,"jar":"〔jar文件地址〕","ext":"〔txt json文件地址〕","playUrl":"〔播放解析地址〕","categories":["〔自定义资源列表〕","〔自定义资源列表〕"] }, 
  //Update:2022-12-04 21:40 
-"spider": "./JAR/1204.jar",
+"spider": "./JAR/1204.jar;md5;505b054d2201e0de56ad9d22450c0269",
 "wallpaper": "http://刚刚.live/图",
 "lives": [
 {"name": "直播","type": 0,"url": "http://w.g9.pub:66/381203888/%E7%9B%B4%E6%92%AD/zb2.txt","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"},
@@ -75,8 +75,8 @@
 {"key":"csp_AliPS","name":"🦊喵狸盘搜（云盘仅搜索）","type":3,"api":"csp_AliPS","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ali.饭太硬.ml/tok"},
 {"key":"Upyunso","name":"☁️UP云搜","type":3,"api":"csp_Upyunso","searchable":1,"playerType":1,"quickSearch":1,"filterable":0,"ext":"http://home.jundie.top:666/token.txt"},
 {"key":"csp_Zhaozy","name":"💡找资源（云盘仅搜索）","type":3,"api":"csp_Zhaozy","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ali.饭太硬.ml/tok"},
-//{"key":"push_agent","name":"🎯手机推送(云盘|磁力)","type":3,"api":"csp_PushAgent","searchable":1,"quickSearch":0,"filterable":0,"ext":"clan://TVBox/alitoken.txt"},
-{"key":"push_agent","name":"📽推送","type": 3,"api": "csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"clan://TVBox/alitoken.txt","jar":"./JAR/海阔推送.jar"},
+//{"key":"push_agent","name":"🎯手机推送(云盘|磁力)","type":3,"api":"csp_PushAgent","searchable":1,"quickSearch":0,"filterable":0,"ext":"4b43fe34515644d3927901d66ba45640"},
+{"key":"push_agent","name":"📽推送","type": 3,"api": "csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"4b43fe34515644d3927901d66ba45640","jar":"./JAR/海阔推送.jar"},
 {"key":"csp_LocalFile","name":"📂本地视频(仅能播放视频)","type":3,"api":"csp_LocalFile","searchable":1,"quickSearch":0,"filterable":1,"type_flag":1},
          //AYV2
 {"key": "csp_AppOK","name": "🐌OK影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://123.ok00.xyz/api.php/v1.vod"},
