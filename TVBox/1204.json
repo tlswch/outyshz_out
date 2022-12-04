@@ -3,7 +3,7 @@
 //searchable":1,"quickSearch":1,"filterable": 0，分别对应的是搜索，快速搜索，筛选。1代表开启
 //{"key":"key_〔资源名称〕","name":"资源名称","type":0,"api":"csp_〔jar内文件名称〕","searchable":1,"quickSearch":1,"filterable":0,"jar":"〔jar文件地址〕","ext":"〔txt json文件地址〕","playUrl":"〔播放解析地址〕","categories":["〔自定义资源列表〕","〔自定义资源列表〕"] }, 
 //Update:2022-12-04 21:40 
-"spider": "https://agit.ai/outyshz/out/raw/branch/master/TVBox/JAR/1204.jar;md5;
+"spider": "https://agit.ai/outyshz/out/raw/branch/master/TVBox/JAR/1205.jar;md5;
 8501ab0b2be05ee231077532c03670f6",
 "wallpaper": "http://刚刚.live/图",
 "lives": [
