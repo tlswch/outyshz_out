@@ -10,9 +10,17 @@ c17533a3fccec34e500601de4f89d3af",
 {"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpLzEzODAwMTM4MDAwMC9NSFFUVi9yYXcvYnJhbmNoL21hc3Rlci9UVi8wOTA0LnR4dA=="]}],"epg":"http://epg.51zmt.top:8000/api/diyp/"}],
 "sites": [
          //JS
+  {
+            "key" : "drpy_js_Alist",
+            "name" : "Alist（支持搜索）",
+            "type" : 3,
+            "api" : "https://agit.ai/outyshz/out/raw/branch/master/TVBox/JS/js/M.js",
+            "ext" : "https://agit.ai/outyshz/out/raw/branch/master/TVBox/JS/js/alist.json"
+        },
+
 {"key":"douban","name":"🕵️豆瓣荐片┃t4首页","type":4,"api":"http://t4.ganggang.live:3812/vod","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"dr_豆瓣","name":"豆瓣热播┃dr首页","type":4,"api":"http://drpy.ganggang.live:5705/vod?pwd=dzyyds&rule=drpy","searchable":0,"quickSearch":0,"filterable":0},
-{"key":"drpy_js_Alist","name":"🗂️Alist┃网盘（支持搜索）","type":3,"api":"https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/lib/alist.min.js", "ext" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/js/alist.json" }, 
+//{"key":"drpy_js_Alist","name":"🗂️Alist┃网盘（支持搜索）","type":3,"api":"https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/lib/alist.min.js", "ext" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/js/alist.json" }, 
 {"key":"drpy_js_厂长资源","name":"影视┃厂长资源[js]","type":3,"api":"https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/lib/drpy.ym.js","ext":"https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/js/厂长资源.js"},
 {"key":"drpy_js_奇优影院","name":"影视┃奇优影院[js]","type":3,"api":"https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/lib/drpy.ym.js","ext":"https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/js/奇优影院.js"},
 {"key":"drpy_js_88看球","name":"体育┃88看球[js]","type":3,"api":"https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/lib/drpy.ym.js","ext":"https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/js/88看球.js"},
