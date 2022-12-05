@@ -1,6 +1,6 @@
 //配置地址 -->我的 --> 设置 -->  配置地址 --> 请输入https://agit.ai/outyshz/out/raw/branch/master/TVBox/1204.json --> 确定。
 //{"key":"key_〔资源名称〕","name":"资源名称","type":0,"api":"csp_〔jar内文件名称〕","playerType":0,searchable":1,"quickSearch":1,"filterable": 0,"〔分别对应的是播放器解析（playerType(0,"系统播放器");playerType(1,"IJK播放器");playerType(2,"Exo播放器")）、搜索、快速搜索、筛选，1代表开启。〕jar":"〔jar文件地址〕","ext":"〔txt/json文件地址〕",
-//Update:2022-12-05 17:12 
+//Update:2022-12-05 17:16 
 {"spider": "./JAR/1205.jar;md5;
 c17533a3fccec34e500601de4f89d3af",
 "wallpaper": "http://刚刚.live/图",
@@ -12,7 +12,7 @@ c17533a3fccec34e500601de4f89d3af",
          //JS
 {"key":"douban","name":"🕵️豆瓣荐片┃t4首页","type":4,"api":"http://t4.ganggang.live:3812/vod","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"dr_豆瓣","name":"豆瓣热播┃dr首页","type":4,"api":"http://drpy.ganggang.live:5705/vod?pwd=dzyyds&rule=drpy","searchable":0,"quickSearch":0,"filterable":0},
-{"key":"drpy_js_Alist","name":🗂️"Alist2┃网盘（支持搜索）","type" : 3,"api" : "https://agit.ai/outyshz/out/raw/branch/master/TVBox/JS/js/M.js","ext" : "https://agit.ai/outyshz/out/raw/branch/master/TVBox/JS/js/alist.json"},
+{"key":"drpy_js_Alist","name":"🗂️Alist┃网盘（支持搜索）","type" : 3,"api" : "https://agit.ai/outyshz/out/raw/branch/master/TVBox/JS/js/M.js","ext" : "https://agit.ai/outyshz/out/raw/branch/master/TVBox/JS/js/alist.json"},
 //{"key":"drpy_js_Alist","name":"🗂️Alist┃网盘（支持搜索）","type":3,"api":"https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/lib/alist.min.js", "ext" : "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/js/alist.json" }, 
 {"key":"drpy_js_厂长资源","name":"影视┃厂长资源[js]","type":3,"api":"https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/lib/drpy.ym.js","ext":"https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/js/厂长资源.js"},
 {"key":"drpy_js_奇优影院","name":"影视┃奇优影院[js]","type":3,"api":"https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/lib/drpy.ym.js","ext":"https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/js/奇优影院.js"},
