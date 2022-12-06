@@ -1,5 +1,5 @@
 //配置地址 -->我的 --> 设置 -->  配置地址 --> 请输入https://agit.ai/outyshz/out/raw/branch/master/TVBox/ysjk.json --> 确定。
-//{"key":"key_〔资源名称〕","name":"资源名称","type":0,"api":"csp_〔jar内文件名称〕","playerType":0,searchable":1,"quickSearch":1,"filterable": 0,"〔分别对应的是播放器解析（playerType(0,"系统播放器");playerType(1,"IJK播放器");playerType(2,"Exo播放器")）、搜索、快速搜索、筛选，1代表开启。〕jar":"〔jar文件地址〕","ext":"〔txt/json文件地址〕
+//{"key":"key_〔资源名称〕","name":"资源名称","type":0,"api":"csp_〔jar内文件名称〕","playerType":0,searchable":1,"quickSearch":1,"filterable": 0,"〔分别对应的是播放器（playerType(0,"系统播放器"，playerType(1,"IJK播放器"，playerType(2,"Exo播放器"）、搜索、快速搜索、筛选，1代表开启。〕jar":"〔jar文件地址〕","ext":"〔txt/json文件地址〕
 //更新日期：12/06
 {"sites":[
          //JS
