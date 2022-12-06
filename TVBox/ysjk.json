@@ -80,7 +80,7 @@
 {"key":"csp_Bili_初中","name":"🏫初中┃B站","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/outyshz/out/raw/branch/master/TVBox/Bili/%e5%88%9d%e4%b8%ad.json"},
 {"key":"csp_Bili_高中","name":"🏫高中┃B站","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/outyshz/out/raw/branch/master/TVBox/Bili/%e9%ab%98%e4%b8%ad.json"},
 {"key":"csp_Bili_软件","name":"📚软件教程┃B站","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable": 1,"ext":"https://agit.ai/outyshz/out/raw/branch/master/TVBox/Bili/%e8%bd%af%e4%bb%b6%e6%95%99%e7%a8%8b.json"},
-{"key":"csp_Bili_歌舞","name":"🎤歌舞┃B站","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable": 1,"ext":".https://agit.ai/outyshz/out/raw/branch/master/TVBox/Bili/%e6%ad%8c%e8%88%9e.txt"},
+{"key":"csp_Bili_歌舞","name":"🎤歌舞┃B站","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable": 1,"ext":"https://agit.ai/outyshz/out/raw/branch/master/TVBox/Bili/%e6%ad%8c%e8%88%9e.txt"},
 {"key":"csp_Bili_歌曲MV","name":"🎧歌曲MV┃B站","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/outyshz/out/raw/branch/master/TVBox/Bili/%e6%ad%8c%e6%9b%b2MV.json"},
 {"key":"csp_Bili_演唱会","name":"🎸演唱会┃B站","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/outyshz/out/raw/branch/master/TVBox/Bili/%e6%bc%94%e5%94%b1%e4%bc%9a.json"},
 {"key":"csp_Bili_美食","name":"🍜美食合集┃B站","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/outyshz/out/raw/branch/master/TVBox/Bili/%e7%be%8e%e9%a3%9f%e5%90%88%e9%9b%86.json"},
@@ -93,7 +93,7 @@
 {"key":"csp_Bili_球球","name":"🏀球球┃B站","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/outyshz/out/raw/branch/master/TVBox/Bili/%e7%90%83%e7%90%83.json"},
 {"key":"csp_Bili_搭讪","name":"👫搭讪┃B站","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/outyshz/out/raw/branch/master/TVBox/Bili/%e6%90%ad%e8%ae%aa.txt"},
 {"key":"csp_Bili_搭配","name":"👔搭配┃B站","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/outyshz/out/raw/branch/master/TVBox/Bili/%e6%90%ad%e9%85%8d.txt"},
-{"key":"csp_Bili_棋牌娱乐","name":"🀄️棋牌娱乐┃B站","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":".https://agit.ai/outyshz/out/raw/branch/master/TVBox/Bili/%e6%a3%8b%e7%89%8c%e5%a8%b1%e4%b9%90.json"}],
+{"key":"csp_Bili_棋牌娱乐","name":"🀄️棋牌娱乐┃B站","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/outyshz/out/raw/branch/master/TVBox/Bili/%e6%a3%8b%e7%89%8c%e5%a8%b1%e4%b9%90.json"}],
 "lives":[
 {"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL3huLS1paHF1MTBjbjRjLnhuLS16N3g5MDBhLmxvdmU6NjMvVFYvemIudHh0"]}]}],
 "parses":[
