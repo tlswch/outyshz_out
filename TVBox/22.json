@@ -96,7 +96,7 @@
 {"key":"csp_Bili_搭配","name":"👔搭配┃B站","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/outyshz/out/raw/branch/master/TVBox/bilibili/%e6%90%ad%e9%85%8d.txt"},
 {"key":"csp_Bili_棋牌娱乐","name":"🃏️棋牌娱乐┃B站","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/outyshz/out/raw/branch/master/TVBox/bilibili/%e6%a3%8b%e7%89%8c%e5%a8%b1%e4%b9%90.json"}],
 "lives":[
-{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=0A0B78AB2604B0D6CF49DF5467C9F23C"]}]}],
+{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=796690B7F70ED73F20F562EECDF8416B"]}]}],
 "parses":[
 {"name":"Json并发","type":2,"url":"Parallel"},
 {"name":"Json轮询","type":2,"url":"Sequence"},
