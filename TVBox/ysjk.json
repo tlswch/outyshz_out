@@ -95,7 +95,7 @@
 {"key":"csp_Paper","name":"️📜小纸条〔网盘〕","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://我是.肥猫.love:63/token.php"},
 //{"key":"csp_AList","name":"💾Alist合集┃网盘(不支持搜索)","type":3,"api":"csp_AList","searchable":0,"quickSearch":0,"filterable":0,"ext":"clan://TVBox/JS/js/alistjar.json"},
 {"key":"drpy_js_Alist","name":"💾Alist网盘〔JS〕","type":3,"api":"https://agit.ai/outyshz/out/raw/branch/master/TVBox/JS/lib/alist.min.js","ext":"https://agit.ai/outyshz/out/raw/branch/master/TVBox/JS/js/alist.json"},
-{"key":"csp_AList","name":"🛃AList网盘","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":0,"ext":"clan://TVBox/JS/js/alistjar.json"},
+{"key":"csp_AList","name":"🛃AList网盘","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/outyshz/out/raw/branch/master/TVBox/JS/js/alistjar.json"},
 //{"key":"csp_Yisou","name":"🔍易搜〔搜索〕","type":3,"api":"csp_Yisou","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://我是.肥猫.love:63/token.php"},
 //{"key":"csp_AliPS","name":"🦊喵狸盘搜〔搜索〕","type":3,"api":"csp_AliPS","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://我是.肥猫.love:63/token.php"},
 {"key":"YiSo","name":"🕵易搜〔搜索〕","type":3,"api":"csp_YiSo","playerType":2,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://我是.肥猫.love:63/token.php"},
