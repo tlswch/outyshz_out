@@ -57,7 +57,6 @@
 {"key":"csp_XYQBiu_17看","name":" 🏀17看球","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/outyshz/out/raw/branch/master/TVBox/json/17%e7%9c%8b%e7%90%83.json"},
 {"key":"csp_xpath_qiumi","name":"🏀Jrs球迷〔球赛〕","type": 3,"api": "csp_XPath","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://agit.ai/outyshz/out/raw/branch/master/TVBox/json/%e7%90%83%e8%bf%b7%e7%9b%b4%e6%92%ad.json"},
 {"key":"csp_XYQBiu_310直播","name":"🏀⚽310看球〔球赛〕","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/outyshz/out/raw/branch/master/TVBox/json/310%e7%9b%b4%e6%92%ad.json"},
-{"key":"csp_XPath_鹅直播","name":"企鹅直播〔球赛〕","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/outyshz/out/raw/branch/master/TVBox/json/%e4%bc%81%e9%b9%85%e7%9b%b4%e6%92%ad.json"},
          //直播转点播
 {"key":"MV","name":"🎹MV〔大全〕","type":4,"api":"http://120.53.102.254/dsp/","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"直播","name":"🖥肥猫〔直播〕","type":4,"api":"http://120.53.102.254/live2?url=aHR0cDovL3huLS1paHF1MTBjbjRjLnhuLS16N3g5MDBhLmxvdmU6NjMvVFYvemIudHh0","searchable":1,"quickSearch":1,"filterable":1},
