@@ -3,6 +3,7 @@
 {"key":"drpy_js_豆瓣","name":"🕵豆瓣〔推荐〕","type":3,"api":"https://agit.ai/outyshz/out/raw/branch/master/TVBox/JS/lib/drpy.min.js","ext":"https://agit.ai/outyshz/out/raw/branch/master/TVBox/JS/js/drpy.js"},
          //影视
 {"key":"YQK_spider","name":"👀一起看TV〔SP〕","api":"csp_YQKAPP","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"https://api-tx.shumaxc.xyz","jar":"http://cdn.qiaoji8.com/cznk1203.jar;md5;ac4ab2ac15ac3fc72e03ca2ffef7f041"},
+{"key":"Pang","name":"胖虎〔SP〕","type":"3","api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"AppTT","name":"🖼图图〔SP〕","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.205.88.126:7788"},
 {"key":"csp_Xinsj","name":"🌠新视觉〔SP〕","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Lgyy","name":"🧿蓝光影视〔SP〕","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1},
