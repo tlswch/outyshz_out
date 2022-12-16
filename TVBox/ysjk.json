@@ -55,7 +55,7 @@
 {"key":"爱看","name":"💓爱看〔官釆〕","type":1,"api":"https://ikan6.vip/api.php/provide/vod","playerType":1,"playUrl":"https://cms.ikan6.vip/nidasicaibudaowozaina/nicaibudaowozaina.php?url=","searchable":1,"quickSearch":1 ,"categories": ["连续剧","综艺","动漫","动件片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","剧情片","国产剧","港台剧","日韩剧","美剧","纪录片","灾难片"]},
          //看球
 {"key":"drpy_js_88看球","name":"🏀88看球〔球赛〕","type":3,"api":"https://agit.ai/outyshz/out/raw/branch/master/TVBox/JS/lib/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/outyshz/out/raw/branch/master/TVBox/JS/js/88%e7%9c%8b%e7%90%83.js"},
-{"key":"csp_XYQBiu_17看","name":" 🏀17看球","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/outyshz/out/raw/branch/master/TVBox/json/17%e7%9c%8b%e7%90%83.json"},
+{"key":"csp_XYQBiu_17看","name":" 🏀17看球〔球赛〕","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/outyshz/out/raw/branch/master/TVBox/json/17%e7%9c%8b%e7%90%83.json"},
 {"key":"csp_xpath_qiumi","name":"🏀Jrs球迷〔球赛〕","type": 3,"api": "csp_XPath","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://agit.ai/outyshz/out/raw/branch/master/TVBox/json/%e7%90%83%e8%bf%b7%e7%9b%b4%e6%92%ad.json"},
 {"key":"csp_XYQBiu_310直播","name":"🏀⚽310看球〔球赛〕","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/outyshz/out/raw/branch/master/TVBox/json/310%e7%9b%b4%e6%92%ad.json"},
          //直播转点播
