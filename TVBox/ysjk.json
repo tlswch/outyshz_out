@@ -88,11 +88,8 @@
 {"key":"csp_Bili_棋牌娱乐","name":"🀄️棋牌娱乐〔B站〕","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/outyshz/out/raw/branch/master/TVBox/bilibili/%e6%a3%8b%e7%89%8c%e5%a8%b1%e4%b9%90.json"},
         //云盘
 {"key":"csp_Paper","name":"️📜小纸条〔网盘〕","type":3,"api":"csp_Paper","playerType":2,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://我是.肥猫.love:63/token.php"},
-//{"key":"csp_AList","name":"💾Alist合集┃网盘(不支持搜索)","type":3,"api":"csp_AList","searchable":0,"quickSearch":0,"filterable":0,"ext":"clan://TVBox/JS/js/alistjar.json"},
 {"key":"drpy_js_Alist","name":"💾Alist网盘〔JS〕","type":3,"api":"https://agit.ai/outyshz/out/raw/branch/master/TVBox/JS/lib/alist.min.js","ext":"https://agit.ai/outyshz/out/raw/branch/master/TVBox/JS/js/alist.json"},
 {"key":"csp_AList","name":"🛃AList网盘","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/outyshz/out/raw/branch/master/TVBox/JS/js/alistjar.json"},
-//{"key":"csp_Yisou","name":"🔍易搜〔搜索〕","type":3,"api":"csp_Yisou","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://我是.肥猫.love:63/token.php"},
-//{"key":"csp_AliPS","name":"🦊喵狸盘搜〔搜索〕","type":3,"api":"csp_AliPS","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://我是.肥猫.love:63/token.php"},
 {"key":"YiSo","name":"🕵易搜〔搜索〕","type":3,"api":"csp_YiSo","playerType":2,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://我是.肥猫.love:63/token.php"},
 {"key":"PanSou","name":"📀盘搜〔搜索〕","type":3,"api":"csp_PanSou","playerType":2,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://我是.肥猫.love:63/token.php"},
 {"key":"Upyunso","name":"☁️Up搜〔搜索〕","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://我是.肥猫.love:63/token.php"},
