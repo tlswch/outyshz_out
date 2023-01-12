@@ -13,7 +13,8 @@
 {"key":"csp_77","name":"⛈️酷云七七〔SP〕","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_CZSPP","name":"🏭厂长资源〔SP〕","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kuaikan","name":"🔭快看〔SP〕","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Nmys","name":"👨‍🌾农民〔SP〕","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable": 1,"ext":"https://raw.kgithub.com/wjjkkk/w/main/csp_Nmys.json"}, 
+{"key":"csp_Nmys","name":"👨‍🌾农民〔SP〕","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable": 1,"ext":"https://agit.ai/outyshz/out/raw/branch/master/TVBox/json/
+%E5%86%9C%E6%B0%91.json"}, 
 {"key":"lezhu","name":"🐷乐猪〔SP〕","type":1,"api":"http://pandown.pro/maoys/lezhu.php"},
 {"key":"csp_乐猪","name":"🐷乐猪影视〔SP〕","type":3,"api":"csp_Lezhu","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Tkys","name":"🌅天空〔SP〕","type": 3,"api":"csp_Tkys","playerType":1,"searchable":1,"quickSearch":1,"filterable": 1},
