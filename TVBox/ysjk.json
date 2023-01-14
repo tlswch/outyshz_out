@@ -96,11 +96,12 @@
 {"key":"Zhaozy","name": "🔎找资源〔搜索〕","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ali.饭太硬.ml/tok"},
 {"key":"push_agent","name":"📲手机〔推送〕","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://ali.饭太硬.ml/tok"}],
 "lives":[
-{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL3huLS1paHF1MTBjbjRjLnhuLS16N3g5MDBhLmxvdmU6NjMvVFYvemIudHh0"]}]}],
+{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL3huLS1paHF1MTBjbjRjLnhuLS16N3g5MDBhLmxvdmU6NjMvVFYvVFZ6eS50eHQ="]}]}],
 "parses":[
 {"name":"Json聚合","type":3,"url":"Demo"},
 {"name":"Web聚合","type":3,"url":"Web"},
-{"name":"Q1解析","type":1,"url":"https://parse.ikunfk.cc/parse/sign/c092dfdaea71d857e79a3738b5ada748?url=","header":{"User-Agent":"Mozilla/5.0"}},
+{"name": "Q1解析","type": 1,"url": "https://parse.ikunfk.cc/parse/sign/74e860ee6889f03cae108d6c228aa725?url=","header": {"User-Agent": "Mozilla/5.0"}},
+{"name": "Q1官解","type": 1,"url": "https://parse.ikunfk.cc/parse/sign/20221230?url=","header": {"User-Agent": "Mozilla/5.0"}},
 {"name":"核桃","type":0,"url":"https://cv.htoo.vip/?url=","ext":{"flag":["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905"],"header":{"User-Agent":"Mozilla/5.0"}}},
 {"name":"俊牛","type":0,"url":"https://jx.junniu.net/?url=","ext":{"flag":["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905"],"header":{"User-Agent":"Mozilla/5.0"}}},
 {"name":"青年","type":0,"url":"https://qnyoke.top/addons/dp/player/index.php?key=0&id=60565&from=qq&url="},
