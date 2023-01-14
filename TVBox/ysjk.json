@@ -57,7 +57,7 @@
          //看球
 {"key":"drpy_js_88看球","name":"🏀88看球〔球赛〕","type":3,"api":"https://agit.ai/outyshz/out/raw/branch/master/TVBox/JS/lib/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/outyshz/out/raw/branch/master/TVBox/JS/js/88%e7%9c%8b%e7%90%83.js"},
 {"key":"csp_XYQBiu_17看","name":"🏀17看球〔球赛〕","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/outyshz/out/raw/branch/master/TVBox/json/17%e7%9c%8b%e7%90%83.json"},
-{"key":"drpy_js_JRKAN直播","name":"🏀Jrs球迷〔球赛〕","type":3,"api": "https://agit.ai/outyshz/out/raw/branch/master/TVBox/JS/lib/drpy.min.js","ext": "https://agit.ai/outyshz/out/raw/branch/master/TVBox/JS/js/%e7%90%83%e8%bf%b7%e7%9b%b4%e6%92%ad.json"},
+{"key":"drpy_js_JRKAN直播","name":"🏀Jrs球迷〔球赛〕","type":3,"api":"https://agit.ai/outyshz/out/raw/branch/master/TVBox/JS/lib/drpy.min.js","ext":"https://agit.ai/outyshz/out/raw/branch/master/TVBox/JS/js/JRKAN%e7%9b%b4%e6%92%ad.js"},
 {"key":"csp_XYQBiu_310直播","name":"🏀⚽310看球〔球赛〕","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/outyshz/out/raw/branch/master/TVBox/json/310%e7%9b%b4%e6%92%ad.json"},
          //直播转点播
 {"key":"MV","name":"🎹MV〔大全〕","type":4,"api":"http://120.53.102.254/dsp/","searchable":0,"quickSearch":0,"filterable":0},
