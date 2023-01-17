@@ -49,7 +49,7 @@
 {"key":"csp_trj","name": "🇺🇸唐人街〔墙外〕","type": 3,"api":"csp_Tangrenjie","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Nbys","name":"✈️泥视频〔墙外〕","type":3,"api":"csp_Nbys","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_xBPQ_蓝光","name": "🧿蓝光〔Q〕","type": 3,"api":"csp_xBPQ","filterable":1,"quickSearch":1,"searchable":1,"ext":"https://agit.ai/outyshz/out/raw/branch/master/TVBox/json/%e8%93%9d%e5%85%89%e5%bd%b1%e9%99%a2.json"},
-{"key":"csp_xBPQ_哔哩兔","name":"哔哩兔〔Q〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/outyshz/out/raw/branch/master/TVBox/json/%e5%93%94%e5%93%a9%e5%85%94.json"},
+{"key":"csp_xBPQ_哔哩兔","name":"🐇哔哩兔〔Q〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/outyshz/out/raw/branch/master/TVBox/json/%e5%93%94%e5%93%a9%e5%85%94.json"},
 {"key":"csp_xBPQ_饭团","name": "🍙饭团〔Q〕","type":3,"api":"csp_xBPQ","filterable":1,"quickSearch":1,"searchable":1,"playerType":"2","ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/xinxie/fantuan.json"},
 {"key":"csp_xb_ysgc","name":"🎬影视工场〔R〕","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.ysgc.vip/vodtype/{cateId}-{catePg}.html"},
 {"key":"csp_XYQHiker_奇优","name":"💢奇优〔H〕","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/outyshz/out/raw/branch/master/TVBox/json/%e5%a5%87%e4%bc%98.json"},
