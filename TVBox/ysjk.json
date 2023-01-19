@@ -22,7 +22,6 @@
 {"key":"csp_Bttoo","name":"🥂两个BT〔SP〕","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_zxzj","name":"🏠在线之家〔SP〕","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Ysgc","name":"🎬影视工厂〔SP〕","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Zjdr","name":"👓追剧达人〔SP〕","type":3,"api":"csp_Zjdr","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Bdys","name":"📯哗滴影视〔SP〕","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Cokemv","name":"📕Cokemv〔SP〕","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_SP360","name":"💫360〔官源〕","api":"csp_SP360","type":3,"filterable": 1,"quickSearch":1,"searchable":1},
@@ -88,7 +87,7 @@
 {"key":"csp_Bili_搭讪","name":"👫搭讪〔B站〕","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/outyshz/out/raw/branch/master/TVBox/bilibili/%e6%90%ad%e8%ae%aa.txt"},
 {"key":"csp_Bili_搭配","name":"👔搭配〔B站〕","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/outyshz/out/raw/branch/master/TVBox/bilibili/%e6%90%ad%e9%85%8d.txt"},
 {"key":"csp_Bili_棋牌娱乐","name":"🀄️棋牌娱乐〔B站〕","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/outyshz/out/raw/branch/master/TVBox/bilibili/%e6%a3%8b%e7%89%8c%e5%a8%b1%e4%b9%90.json"},
-        //云盘
+        //搜索
 {"key":"drpy_js_Alist","name":"💾小丫〔网盘〕","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/alist.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://101.34.67.237/txt/json/alist.json"},
 {"key":"csp_AList","name":"🛃AList网盘","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/outyshz/out/raw/branch/master/TVBox/JS/js/alistjar.json"},
 {"key":"csp_Paper","name": "📜小纸条〔网盘〕","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"ext": "http://ali.饭太硬.ml/tok"},
