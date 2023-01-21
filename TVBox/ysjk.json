@@ -102,7 +102,10 @@
 {"key":"YiSo","name":"🕵易搜〔搜索〕","type":3,"api":"csp_YiSo","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ali.饭太硬.ml/tok"},
 {"key":"PanSou","name":"📀盘搜〔搜索〕","type":3,"api":"csp_PanSou","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ali.饭太硬.ml/tok"},{"key":"UpYun","name":"☁️Up搜〔搜索〕","type":3,"api":"csp_UpYun","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ali.饭太硬.ml/tok"},{"key":"Zhaozy","name":"🔎找资源〔搜索〕","type":3,"api":"csp_Zhaozy","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ali.饭太硬.ml/tok"},
 {"key":"push_agent","name":"📲手机〔推送〕","type":3,"api":"csp_Push","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ali.饭太硬.ml/tok"}],
-"parses":[{"name":"Json聚合","type":3,"url":"Demo"},
+"lives":[
+{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL3huLS1paHF1MTBjbjRjLnhuLS16N3g5MDBhLmxvdmU6NjMvVFYvVFZ6eS50eHQ="]}]}],
+"parses":[
+{"name":"Json聚合","type":3,"url":"Demo"},
 {"name":"Web聚合","type":3,"url":"Web"},
 {"name": "Q1解析","type":1,"url":"https://parse.ikunfk.cc/parse/sign/74e860ee6889f03cae108d6c228aa725?url=","header": {"User-Agent": "Mozilla/5.0"}},
  {"name": "星辰云解析","type":1,"url": "https://json.xn--9kq078cdn3a.cc/api/?key=22ea7ae4746073f5ea13e9079c024c7d&url=","header": {"User-Agent": "Mozilla/5.0"}},
