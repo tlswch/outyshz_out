@@ -68,7 +68,6 @@
 {"key":"drpy_js_88看球","name":"8⃣8⃣看球〔球赛〕","type":3,"api":"https://agit.ai/outyshz/out/raw/branch/master/TVBox/JS/lib/drpy.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/outyshz/out/raw/branch/master/TVBox/JS/js/88%e7%9c%8b%e7%90%83.js"},
 {"key":"csp_XYQBiu_17看","name":"1⃣7⃣看球〔球赛〕","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/outyshz/out/raw/branch/master/TVBox/json/17%e7%9c%8b%e7%90%83.json"},
 {"key":"drpy_js_JRKAN直播","name":"⛹Jrs球迷〔球赛〕","type":3,"api":"https://agit.ai/outyshz/out/raw/branch/master/TVBox/JS/lib/drpy.min.js","ext":"https://agit.ai/outyshz/out/raw/branch/master/TVBox/JS/js/JRKAN%e7%9b%b4%e6%92%ad.js"},
-{"key":"csp_XYQBiu_310直播","name":"3⃣1⃣0⃣看球〔球赛〕","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/outyshz/out/raw/branch/master/TVBox/json/310%e7%9b%b4%e6%92%ad.json"},
 {"key":"csp_XYQHiker_巧克力","name":"🍫巧克力直播〔球赛〕","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/outyshz/out/raw/branch/master/TVBox/json/%e5%b7%a7%e5%85%8b%e5%8a%9b.json"},
          //直播转点播
 {"key":"MV","name":"🎹MV〔大全〕","type":4,"api":"http://120.53.102.254/dsp/","searchable":0,"quickSearch":0,"filterable":0},
