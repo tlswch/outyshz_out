@@ -1,6 +1,6 @@
 {"sites":[
          //首页
-{"key":"T2⃣3⃣4⃣5⃣🐜4_douban","name":"📡影视推荐〔T4〕","type":4,"api":"https://t4.饭太硬.ml/vod","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"T🐜4_douban","name":"📡影视推荐〔T4〕","type":4,"api":"https://t4.饭太硬.ml/vod","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"drpy_js_豆瓣","name":"🕵豆瓣〔推荐〕","type":3,"api":"https://agit.ai/outyshz/out/raw/branch/master/TVBox/JS/lib/drpy.min.js","ext":"https://agit.ai/outyshz/out/raw/branch/master/TVBox/JS/js/drpy.js"},
          //影视
 {"key":"csp_apple","name": "🍎苹果〔SP〕","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
@@ -12,6 +12,7 @@
 //{"key":"csp_Lgyy","name":"🧿蓝光影视〔SP〕","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_fant","name":"🍙饭团〔SP〕","api":"csp_Fantuan","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"csp_LibVio","name":"🎉Libvo〔SP〕","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable": 0}, 
+{"key":"csp_2345","name": "2⃣3⃣4⃣5⃣〔SP〕","type":3,"api":"csp_SP2345","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_77","name":"⛈️七七〔SP〕","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_CZSPP","name":"🏭厂长资源〔SP〕","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kuaikan","name":"🔭快看〔SP〕","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
@@ -177,4 +178,4 @@
 {"category":1,"name":"dns_cache_timeout","value":"600000000"}]}],
 "ads":["wan.51img1.com","https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd","mimg.0c1q0l.cn","www.googletagmanager.com","www.google-analytics.com","mc.usihnbcq.cn","mg.g1mm3d.cn","mscs.svaeuzh.cn","cnzz.hhttm.top","tp.vinuxhome.com","cnzz.mmstat.com","www.baihuillq.com","s23.cnzz.com","z3.cnzz.com","c.cnzz.com","stj.v1vo.top","z12.cnzz.com","img.mosflower.cn","tips.gamevvip.com","ehwe.yhdtns.com","xdn.cqqc3.com","www.jixunkyy.cn","sp.chemacid.cn","hm.baidu.com","s9.cnzz.com","z6.cnzz.com","um.cavuc.com","mav.mavuz.com","wofwk.aoidf3.com","z5.cnzz.com","xc.hubeijieshikj.cn","tj.tianwenhu.com","xg.gars57.cn","k.jinxiuzhilv.com","cdn.bootcss.com","ppl.xunzhuo123.com","xomk.jiangjunmh.top","img.xunzhuo123.com","z1.cnzz.com","s13.cnzz.com","xg.huataisangao.cn","z7.cnzz.com","xg.huataisangao.cn","z2.cnzz.com","s96.cnzz.com","q11.cnzz.com","thy.dacedsfa.cn","xg.whsbpw.cn","s19.cnzz.com","z8.cnzz.com","s4.cnzz.com","f5w.as12df.top","ae01.alicdn.com","www.92424.cn","k.wudejia.com","vivovip.mmszxc.top","qiu.xixiqiu.com","cdnjs.hnfenxun.com","cms.qdwght.com"],
 "wallpaper":"http://饭太硬.ga/深色壁纸/api.php",
-"spider":"https://download.kstore.space/download/3848/TVBox/JAR/out.jar;md5;A4070EDA8DF52C146E51EAF4BC173D8E"}
+"spider":"https://agit.ai/outyshz/out/raw/branch/master/TVBox/JAR/xo.jar;md5;7752af3c1172ecb63c2d077fd017d0c3"}
