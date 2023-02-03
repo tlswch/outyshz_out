@@ -54,6 +54,14 @@
 "name":"小雅"
 },
 {
+"url":"https://pastebin.com/raw/5NHaxyGR",
+"name":"道长线路"
+},
+{
+"url": "http://dxawi.github.io/0/0.json",
+"name":"0线路"
+},
+{
 "url":"https://agit.ai/66666/mao/raw/branch/master/00/000.m3u8",
 "name":"66666线路AshpdA"
 },
@@ -61,6 +69,10 @@
 "url":"https://agit.ai/nbwzlyd/xiaopingguo/raw/branch/master/xiaopingguo/xiaopingguo.json",
 "name":"小苹果线路"
 },
+{
+"url":"https://yydsys.top/duo/v.json",
+"name":"应用多多"
+},     
 {
 "url":"https://maoyingshi.cc/tvbox/云星日记/1.m3u8",
 "name":"〔云星日记〕线路"
