@@ -1,7 +1,7 @@
 {"sites":[
          //首页
-{"key":"T4_douban","name":"📡影视推荐〔T4〕","type":4,"api":"https://t4.饭太硬.ml/vod","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"drpy_js_豆瓣","name":"🕵豆瓣〔推荐〕","type":3,"api":"https://agit.ai/outyshz/out/raw/branch/master/TVBox/JS/lib/drpy2.min.js","ext":"https://agit.ai/outyshz/out/raw/branch/master/TVBox/JS/js/drpy.js"},
+{"key":"T4_douban","name":"📡影视推荐〔T4〕","type":4,"api":"https://t4.饭太硬.ml/vod","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_apple","name": "🍎苹果〔SP〕","type": 3,"api": "csp_LiteApple","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "AppTT","name": "🖼图图〔SP〕","type": 3,"api": "csp_AppTT2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://124.248.68.16:6611$$$U1JLI2UlNFVZdFUjS2lFbyp2c1BxcHIwY0M0YnhBUVc=$$$bzZzWW1tKng1aG4jcmNDdA=="},
 {"key":" 一起看","name": "👨‍👩‍👧‍👦一起看TV〔SP〕","type": 3,"api": "csp_YQKAPP","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://api-tx.shumaxc.xyz"},
