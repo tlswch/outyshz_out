@@ -1,7 +1,7 @@
 {
   "drives": [
     {
-      "name": "小丫",
+      "name": "小雅",
       "server": "http://alist.xiaoya.pro"
     },
     {
@@ -24,5 +24,9 @@
       "name": "梓澪",
       "server": "https://zi0.cc"
     },
+    {
+      "name": "欧逼"",
+      "server": "https://alistcn.repl.co"
+    }
   ]
 }
