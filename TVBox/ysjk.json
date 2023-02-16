@@ -100,12 +100,13 @@
 {"key":"csp_Bili_搭配","name":"👔搭配〔B站〕","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/outyshz/out/raw/branch/master/TVBox/bilibili/%e6%90%ad%e9%85%8d.txt"},
 {"key":"csp_Bili_棋牌娱乐","name":"🀄️棋牌娱乐〔B站〕","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/outyshz/out/raw/branch/master/TVBox/bilibili/%e6%a3%8b%e7%89%8c%e5%a8%b1%e4%b9%90.json"},
          //搜索
-{"key": "csp_Alist1","name": "🛃Alist〔网盘〕","type": 3,"api": "csp_AList","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "http://cdn.饭太硬.ga/x/json/alist.json"},
+{"key":"csp_Alist2","name":"💾小丫搜索","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/alist.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://101.34.67.237/txt/json/alist.json"},
+{"key": "csp_Alist1","name": "🛃Alist〔网盘〕","type": 3,"api": "csp_AList","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://agit.ai/outyshz/out/raw/branch/master/TVBox/JS/js/alist.json"},
 {"key": "csp_Paper","name": "📜纸条〔搜4K〕","type": 3,"api": "csp_Paper","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0,"ext": "https://download.kstore.space/download/3848/TVBox/token.txt"},
-{"key": "Zhaozy","name": "🔎找资源〔搜索〕","type": 3,"api": "csp_Zhaozy","searchable": 1,"quickSearch": 0,"filterable": 0,"changeable": 0,"ext": "https://download.kstore.space/download/3848/TVBox/token.txt$$$out$$$398957002"},
 {"key": "YiSo","name": "🕵易搜〔搜4K〕","type": 3,"api": "csp_YiSo","searchable": 1,"quickSearch": 1,"filterable": 0,"changeable": 0,"ext": "https://download.kstore.space/download/3848/TVBox/token.txt"},
 {"key": "PanSou","name": "📀盘搜〔搜4K〕","type": 3,"api": "csp_PanSou","searchable": 1,"quickSearch": 1,"filterable": 0,"changeable": 0,"ext": "https://download.kstore.space/download/3848/TVBox/token.txt"},
 {"key": "UpYun","name": "☁️Up搜〔搜4K〕","type": 3,"api": "csp_UpYun","searchable": 1,"quickSearch": 1,"filterable": 0,"changeable": 0,"ext": "https://download.kstore.space/download/3848/TVBox/token.txt"},
+{"key": "Zhaozy","name": "🔎找资源〔搜索〕","type": 3,"api": "csp_Zhaozy","searchable": 1,"quickSearch": 0,"filterable": 0,"changeable": 0,"ext": "https://download.kstore.space/download/3848/TVBox/token.txt$$$out$$$398957002"},
 {"key":"push_agent","name":"📲手机〔推送〕","type":3,"api":"csp_Push","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://download.kstore.space/download/3848/TVBox/token.txt"}],
 "lives": [{"name": "直播","type": 0,"url": "http://w.g9.pub:66/398957002/TVBox/zb.txt","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"}],
 "parses":[
